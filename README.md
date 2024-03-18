@@ -1,12 +1,12 @@
 # Primeiro site HTML
 
-Um parágrafo da descrição do projeto vai aqui
+Esse trabalho tem como objetivo desenvolver as habilidades com a linguagem HTML, e falar um pouco sobre mim.
 
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+Consulte **[Primeiro site](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
 
