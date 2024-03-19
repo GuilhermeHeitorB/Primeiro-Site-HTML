@@ -6,11 +6,12 @@ Esse trabalho tem como objetivo desenvolver as habilidades com a linguagem HTML,
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **[Primeiro site](#-[(https://guilhermeheitoroliveirabarcelos.tiiny.site)]** para ver como ficou o projeto.
+Consulte **[Primeiro site](https://guilhermeheitoroliveirabarcelos.tiiny.site)** para ver como ficou o projeto.
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+![image](https://github.com/GuilhermeHeitorB/Primeiro-Site-HTML/assets/162808251/9e260071-3dd7-4375-b07b-7f321872ad4d)
+
 
 ```
 Dar exemplos
