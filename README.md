@@ -8,16 +8,11 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 Consulte **[Primeiro site](https://guilhermeheitoroliveirabarcelos.tiiny.site)** para ver como ficou o projeto.
 
-### 📋 Pré-requisitos
+### 📋 Pré-visualização
 
 ![image](https://github.com/GuilhermeHeitorB/Primeiro-Site-HTML/assets/162808251/9e260071-3dd7-4375-b07b-7f321872ad4d)
 
 ![image](https://github.com/GuilhermeHeitorB/Primeiro-Site-HTML/assets/162808251/22e658b5-dd2a-440c-ad5a-91ca4a81886a)
-
-
-```
-Dar exemplos
-```
 
 ### 🔧 Instalação
 
@@ -99,4 +94,4 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+⌨️ por [Guilherme Heitor](https://gist.github.com/lohhans) 😊
